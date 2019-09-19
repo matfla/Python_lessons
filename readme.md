@@ -1,7 +1,7 @@
 # Python Lesson
 
-Author: Mat
-Date: 19-09-19
+Author: Mat Fla
+Date: 2019-09-19
 
 ## Content
 
